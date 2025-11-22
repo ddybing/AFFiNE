@@ -16,6 +16,23 @@ const tagColorIds: TagColorName[] = [
   'Blue',
   'Purple',
   'Grey',
+  'Aqua',
+  'Coral',
+  'DarkCyan',
+  'DarkSeaGreen',
+  'DeepPink',
+  'GoldenRod',
+  'IndianRed',
+  'LightSalmon',
+  'Lime',
+  'MediumSpringGreen',
+  'Olive',
+  'OliveDrab',
+  'PaleGreen',
+  'RoyalBlue',
+  'SteelBlue',
+  'Wheat'
+
 ];
 
 export class TagService extends Service {
